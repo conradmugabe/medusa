@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12707](https://github.com/medusajs/medusa/pull/12707) [`774702153f389e59476ea0a027b8caeb5075f92a`](https://github.com/medusajs/medusa/commit/774702153f389e59476ea0a027b8caeb5075f92a) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(create-medusa-app): remove "Created admin user" message
+
+- [#12714](https://github.com/medusajs/medusa/pull/12714) [`2e861a94492a486e2cbdb8d442f25611be1bc3bf`](https://github.com/medusajs/medusa/commit/2e861a94492a486e2cbdb8d442f25611be1bc3bf) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(create-medusa-app): ensure the same package manager is used consistently
+
+- Updated dependencies []:
+  - @medusajs/telemetry@2.8.5
+
 ## 2.8.4
 
 ### Patch Changes

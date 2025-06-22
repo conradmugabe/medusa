@@ -1,5 +1,14 @@
 # @medusajs/customer
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12715](https://github.com/medusajs/medusa/pull/12715) [`ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470`](https://github.com/medusajs/medusa/commit/ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(utils): medusa internal service returned data should match typings
+
+- Updated dependencies [[`cbf3644eb7c8a24eaed879647b58c9ece3373c0e`](https://github.com/medusajs/medusa/commit/cbf3644eb7c8a24eaed879647b58c9ece3373c0e), [`00505b4f8e49873123111752adfda47ccb35ab46`](https://github.com/medusajs/medusa/commit/00505b4f8e49873123111752adfda47ccb35ab46), [`94b62c67249d13ec6342411cf7efdedfd0ac47e1`](https://github.com/medusajs/medusa/commit/94b62c67249d13ec6342411cf7efdedfd0ac47e1)]:
+  - @medusajs/framework@2.8.5
+
 ## 2.8.4
 
 ### Patch Changes
