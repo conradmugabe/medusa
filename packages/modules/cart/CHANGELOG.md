@@ -1,5 +1,14 @@
 # @medusajs/cart
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12412](https://github.com/medusajs/medusa/pull/12412) [`2621f00bb035a6b909f9498a2bc98fdba8570ba9`](https://github.com/medusajs/medusa/commit/2621f00bb035a6b909f9498a2bc98fdba8570ba9) Thanks [@fPolic](https://github.com/fPolic)! - feat(promotion, dashboard, core-flows, cart, types, utils, medusa): tax inclusive promotions
+
+- Updated dependencies [[`cbf3644eb7c8a24eaed879647b58c9ece3373c0e`](https://github.com/medusajs/medusa/commit/cbf3644eb7c8a24eaed879647b58c9ece3373c0e), [`00505b4f8e49873123111752adfda47ccb35ab46`](https://github.com/medusajs/medusa/commit/00505b4f8e49873123111752adfda47ccb35ab46), [`94b62c67249d13ec6342411cf7efdedfd0ac47e1`](https://github.com/medusajs/medusa/commit/94b62c67249d13ec6342411cf7efdedfd0ac47e1)]:
+  - @medusajs/framework@2.8.5
+
 ## 2.8.4
 
 ### Patch Changes

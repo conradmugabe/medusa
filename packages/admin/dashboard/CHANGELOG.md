@@ -1,5 +1,23 @@
 # @medusajs/dashboard
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12643](https://github.com/medusajs/medusa/pull/12643) [`f2cb528a5650fe112ca8eeb4bdffc5f0b217338a`](https://github.com/medusajs/medusa/commit/f2cb528a5650fe112ca8eeb4bdffc5f0b217338a) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: wire up direct uploads with local file provider
+
+- [#12697](https://github.com/medusajs/medusa/pull/12697) [`ce202968c6f5f1a54238defcd3dbcba6025c32db`](https://github.com/medusajs/medusa/commit/ce202968c6f5f1a54238defcd3dbcba6025c32db) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: update product import template
+
+- [#11885](https://github.com/medusajs/medusa/pull/11885) [`44d1d186890cd44b20e41b60d1e217bc3d4b2a51`](https://github.com/medusajs/medusa/commit/44d1d186890cd44b20e41b60d1e217bc3d4b2a51) Thanks [@riqwan](https://github.com/riqwan)! - feat(dashboard,types): add credit lines + loyalty changes
+
+- [#12412](https://github.com/medusajs/medusa/pull/12412) [`2621f00bb035a6b909f9498a2bc98fdba8570ba9`](https://github.com/medusajs/medusa/commit/2621f00bb035a6b909f9498a2bc98fdba8570ba9) Thanks [@fPolic](https://github.com/fPolic)! - feat(promotion, dashboard, core-flows, cart, types, utils, medusa): tax inclusive promotions
+
+- Updated dependencies [[`f2cb528a5650fe112ca8eeb4bdffc5f0b217338a`](https://github.com/medusajs/medusa/commit/f2cb528a5650fe112ca8eeb4bdffc5f0b217338a)]:
+  - @medusajs/js-sdk@2.8.5
+  - @medusajs/admin-shared@2.8.5
+  - @medusajs/icons@2.8.5
+  - @medusajs/ui@4.0.15
+
 ## 2.8.4
 
 ### Patch Changes

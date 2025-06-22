@@ -1,5 +1,16 @@
 # @medusajs/payment
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12715](https://github.com/medusajs/medusa/pull/12715) [`ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470`](https://github.com/medusajs/medusa/commit/ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(utils): medusa internal service returned data should match typings
+
+- [#12751](https://github.com/medusajs/medusa/pull/12751) [`7a8f639b382e20328879ce6d9e93ea2c79f380b5`](https://github.com/medusajs/medusa/commit/7a8f639b382e20328879ce6d9e93ea2c79f380b5) Thanks [@fPolic](https://github.com/fPolic)! - fix(payment): add account holder methods to the manual provider
+
+- Updated dependencies [[`cbf3644eb7c8a24eaed879647b58c9ece3373c0e`](https://github.com/medusajs/medusa/commit/cbf3644eb7c8a24eaed879647b58c9ece3373c0e), [`00505b4f8e49873123111752adfda47ccb35ab46`](https://github.com/medusajs/medusa/commit/00505b4f8e49873123111752adfda47ccb35ab46), [`94b62c67249d13ec6342411cf7efdedfd0ac47e1`](https://github.com/medusajs/medusa/commit/94b62c67249d13ec6342411cf7efdedfd0ac47e1)]:
+  - @medusajs/framework@2.8.5
+
 ## 2.8.4
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @medusajs/workflows-sdk
 
+## 2.8.5
+
+### Patch Changes
+
+- [#12675](https://github.com/medusajs/medusa/pull/12675) [`1a7847660890ae84648123567ce8dc4c9a0eca03`](https://github.com/medusajs/medusa/commit/1a7847660890ae84648123567ce8dc4c9a0eca03) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(workflow-sdk): Async propagation
+
+- Updated dependencies [[`ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470`](https://github.com/medusajs/medusa/commit/ab634a14ba709f1b1d12eb4cd5c7f3db6bfe6470), [`cbf3644eb7c8a24eaed879647b58c9ece3373c0e`](https://github.com/medusajs/medusa/commit/cbf3644eb7c8a24eaed879647b58c9ece3373c0e), [`b316924572fc2cf529e0d91b84955da20b34248a`](https://github.com/medusajs/medusa/commit/b316924572fc2cf529e0d91b84955da20b34248a), [`44d1d186890cd44b20e41b60d1e217bc3d4b2a51`](https://github.com/medusajs/medusa/commit/44d1d186890cd44b20e41b60d1e217bc3d4b2a51), [`2621f00bb035a6b909f9498a2bc98fdba8570ba9`](https://github.com/medusajs/medusa/commit/2621f00bb035a6b909f9498a2bc98fdba8570ba9), [`bd6d9777c50d69115a20334a103a8ab9997b259d`](https://github.com/medusajs/medusa/commit/bd6d9777c50d69115a20334a103a8ab9997b259d)]:
+  - @medusajs/utils@2.8.5
+  - @medusajs/modules-sdk@2.8.5
+  - @medusajs/types@2.8.5
+  - @medusajs/orchestration@2.8.5
+
 ## 2.8.4
 
 ### Patch Changes
